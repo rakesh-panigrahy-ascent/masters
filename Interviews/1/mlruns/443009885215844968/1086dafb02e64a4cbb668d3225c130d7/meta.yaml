@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data%20science/masters/Interviews/1/mlruns/443009885215844968/1086dafb02e64a4cbb668d3225c130d7/artifacts
+end_time: 1694345649870
+entry_point_name: ''
+experiment_id: '443009885215844968'
+lifecycle_stage: active
+run_id: 1086dafb02e64a4cbb668d3225c130d7
+run_name: Orthogonal Matching Pursuit
+run_uuid: 1086dafb02e64a4cbb668d3225c130d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345649221
+status: 3
+tags: []
+user_id: rakesh.panigrahy

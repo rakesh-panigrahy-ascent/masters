@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data%20science/masters/Interviews/1/mlruns/443009885215844968/3d72c2b6ca5040eb9226077f611c81fc/artifacts
+end_time: 1694345957626
+entry_point_name: ''
+experiment_id: '443009885215844968'
+lifecycle_stage: active
+run_id: 3d72c2b6ca5040eb9226077f611c81fc
+run_name: Session Initialized c9fb
+run_uuid: 3d72c2b6ca5040eb9226077f611c81fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345553513
+status: 3
+tags: []
+user_id: rakesh.panigrahy

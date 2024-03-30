@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data%20science/masters/Interviews/1/mlruns/443009885215844968/fcbe126941b845ea9c79e4b2240d38c5/artifacts
+end_time: 1694345643111
+entry_point_name: ''
+experiment_id: '443009885215844968'
+lifecycle_stage: active
+run_id: fcbe126941b845ea9c79e4b2240d38c5
+run_name: Ridge Regression
+run_uuid: fcbe126941b845ea9c79e4b2240d38c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345642531
+status: 3
+tags: []
+user_id: rakesh.panigrahy

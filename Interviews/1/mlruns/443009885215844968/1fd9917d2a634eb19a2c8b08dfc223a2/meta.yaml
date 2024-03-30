@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data%20science/masters/Interviews/1/mlruns/443009885215844968/1fd9917d2a634eb19a2c8b08dfc223a2/artifacts
+end_time: 1694345646540
+entry_point_name: ''
+experiment_id: '443009885215844968'
+lifecycle_stage: active
+run_id: 1fd9917d2a634eb19a2c8b08dfc223a2
+run_name: Linear Regression
+run_uuid: 1fd9917d2a634eb19a2c8b08dfc223a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345645901
+status: 3
+tags: []
+user_id: rakesh.panigrahy

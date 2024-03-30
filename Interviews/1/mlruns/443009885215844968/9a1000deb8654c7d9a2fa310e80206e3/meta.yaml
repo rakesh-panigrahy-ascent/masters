@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data%20science/masters/Interviews/1/mlruns/443009885215844968/9a1000deb8654c7d9a2fa310e80206e3/artifacts
+end_time: 1694345641429
+entry_point_name: ''
+experiment_id: '443009885215844968'
+lifecycle_stage: active
+run_id: 9a1000deb8654c7d9a2fa310e80206e3
+run_name: Lasso Least Angle Regression
+run_uuid: 9a1000deb8654c7d9a2fa310e80206e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345640753
+status: 3
+tags: []
+user_id: rakesh.panigrahy

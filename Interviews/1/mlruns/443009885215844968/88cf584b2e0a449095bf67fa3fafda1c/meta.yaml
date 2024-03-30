@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/data%20science/masters/Interviews/1/mlruns/443009885215844968/88cf584b2e0a449095bf67fa3fafda1c/artifacts
+end_time: 1694345636183
+entry_point_name: ''
+experiment_id: '443009885215844968'
+lifecycle_stage: active
+run_id: 88cf584b2e0a449095bf67fa3fafda1c
+run_name: Bayesian Ridge
+run_uuid: 88cf584b2e0a449095bf67fa3fafda1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694345635601
+status: 3
+tags: []
+user_id: rakesh.panigrahy
